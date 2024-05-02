@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP TheCherno/2.1 Linkers.md",
+                "file": "CPP TheCherno/3.0 Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/2.1 Linkers.md",
+                "file": "CPP TheCherno/3.0 Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/2.1 Linkers.md",
+                "file": "CPP TheCherno/3.0 Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/2.1 Linkers.md"
+                "file": "CPP TheCherno/3.0 Variables.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "e813ba7cad4329aa",
   "lastOpenFiles": [
-    "CPP TheCherno/3.0 Variables.md",
     "CPP TheCherno/2.1 Linkers.md",
+    "CPP TheCherno/3.0 Variables.md",
     "CPP TheCherno/1.0 Introduction.md",
     "CPP TheCherno/2.0 Compilers.md",
     "UFS-8 WEB/6.0 Altri tipi di variabili.md",
