@@ -1,0 +1,114 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FarFileImage",
+      "FarBookmark",
+      "FarFileLines",
+      "FarFolder"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "folders",
+        "icon": "FarFolder",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": "docs",
+        "icon": "FarFileLines",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": "bookmarks",
+        "icon": "FarBookmark",
+        "for": "everything",
+        "order": 2
+      },
+      {
+        "rule": "code",
+        "icon": "FarFileCode",
+        "for": "everything",
+        "order": 3
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconsBackgroundCheckEnabled": false
+  },
+  "UFS-1 OS": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFT-4 ECS": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFT-6 PRM": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFT-9 COMS": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFS-1 OS/Images/computer system.svg": "FarFileImage",
+  "UFS-1 OS/Images/Screenshot 2023-10-26 104848.png": "FarFileImage",
+  "UFS-1 OS/Images/Screenshot 2023-10-26 114337.png": "FarFileImage",
+  "UFT-6 PRM/Images/elementi importanti.svg": "FarFileImage",
+  "UFT-4 ECS/1.1 Sondaggio.md": {
+    "iconName": "FarFileLines",
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFT-9 COMS/images/Screenshot 2023-10-24 163632.png": "FarFileImage",
+  "Path Files - Special characters.md": "FarBookmark",
+  "UFT-6 PRM/2.2 Esercizio.md": "FarFileLines",
+  "UFT-6 PRM/Images/Kanban.svg": "FarFileImage",
+  "UFT-6 PRM/Images/Scrum.svg": "FarFileImage",
+  "UFT-6 PRM/Images/Ruoli Scrum.svg": "FarFileImage",
+  "UFT-6 PRM/Images/Ceremonie.svg": "FarFileImage",
+  "UFS-1 OS/Images/Harvard Arc.svg": "FarFileImage",
+  "UFS-1 OS/Images/layout programma C.svg": "FarFileImage",
+  "UFT-4 ECS/Images/ansoff.svg": "FarFileImage",
+  "UFT-4 ECS/Images": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileImage"
+  },
+  "UFS-1 OS/Images": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileImage"
+  },
+  "UFT-6 PRM/Images": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileImage"
+  },
+  "UFT-9 COMS/images": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileImage"
+  },
+  "UFS-3 ALGS/images": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileImage"
+  },
+  "UFS-3 ALGS": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  },
+  "UFT-6 PRM/Images/BurnUp.svg": "FarFileImage",
+  "UFT-2 PDT": {
+    "iconName": null,
+    "inheritanceIcon": "FarFileLines"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "2f97c2aaf5cd96c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2af901aab85c742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e813ba7cad4329aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CPP TheCherno/2.1 Linkers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66ed53c8d768b281",
+    "type": "split",
+    "children": [
+      {
+        "id": "282a978d2aefb3e8",
+        "type": "tabs",
+        "dimension": 74.4186046511628,
+        "children": [
+          {
+            "id": "a2ebf7dd97cbd0a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "proce",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de041d264303ee3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3167a486af1650eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b67ab081980a01c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0beee7477f6c3eac",
+        "type": "tabs",
+        "dimension": 25.581395348837212,
+        "children": [
+          {
+            "id": "2bf178dc221a452b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "c2f3b41f989fe9d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4003b6406b7739d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0f2ef76b825edc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CPP TheCherno/2.1 Linkers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4310ef2948a3e9b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CPP TheCherno/2.1 Linkers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afdc71ebcb7eb054",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b5d47e5fa49b69a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CPP TheCherno/2.1 Linkers.md"
+              }
+            }
+          },
+          {
+            "id": "b88fd7db13382bc1",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "e813ba7cad4329aa",
+  "lastOpenFiles": [
+    "CPP TheCherno/3.0 Variables.md",
+    "CPP TheCherno/2.1 Linkers.md",
+    "CPP TheCherno/1.0 Introduction.md",
+    "CPP TheCherno/2.0 Compilers.md",
+    "UFS-8 WEB/6.0 Altri tipi di variabili.md",
+    "CPP TheCherno",
+    "UFS-8 WEB/5.0 Funzioni.md",
+    "UFS-6 JAVz/4.0 Design patterns.md",
+    "UFS-6 JAVz/imgs/b-tree-visualization.png",
+    "UFS-7 IUM/3.0 Visual Design e Accessibilità.md",
+    "UFS-7 IUM/2.2 Qualità di un prodotto software.md",
+    "UFS-6 JAVz/3.0 Classi IO.md",
+    "UFS-8 WEB/4.0 selectors.md",
+    "UFS-8 WEB/3.0 Scope.md",
+    "UFS-8 WEB/2.0 Javascript.md",
+    "UFS-6 JAVz/2.0 Ripasso.md",
+    "Microsoft/Global Azure - Artificial intelligence.md",
+    "Microsoft",
+    "UFS-6 JAVz/1.0 introduction.md",
+    "UFS-6 JAVz/imgs",
+    "UFS-6 JAVz",
+    "UFS-8 WEB/1.0 Introduction.md",
+    "UFS-7 IUM/2.1 Strumenti di Progettazione.md",
+    "UFS-7 IUM/1.0 Introduction.md",
+    "UFS-7 IUM/2.0 User Experience.md",
+    "UFS-2 RET/8.0 Java Http.md",
+    "UFS-7 IUM/1.1 Esercitazione 1 Task analysis.md",
+    "UFT-5 SIC/3.0 Qualità e ambiente.md",
+    "UFS-2 RET/99.0 Progetto.md",
+    "UFS-7 IUM/imgs",
+    "UFS-7 IUM",
+    "UFT-5 SIC/4.0 Green Economy.md",
+    "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-24-08 Lumin - Beautiful PDF Editor.png",
+    "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-02-01 Lumin - Beautiful PDF Editor.png",
+    "UFT-5 SIC/2.1 Rischi videoterminali.md",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-27 104853.png",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-27 104816.png",
+    "UFS-8 WEB/imgs",
+    "UFS-8 WEB",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-22 at 11-23-34 UFS05 - Database e analisi dei dati - Google Drive.png",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-22 at 11-17-52 UFS05 - Database e analisi dei dati - Google Drive.png",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-22 092251.png",
+    "UFS-5 DBS/imgs/Screenshot 2024-03-22 092052.png",
+    "UFT-8.1 DSG/imgs",
+    "UFT-8.1 DSG",
+    "UFS-2 RET/imgs/Screenshot 2024-02-22 093435.png",
+    "Untitled.canvas"
+  ]
+}
