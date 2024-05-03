@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-9 FRM/1.0 Introduction.md",
+                "file": "UFS-9 FRM/1.1 React.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-9 FRM/1.0 Introduction.md",
+                "file": "UFS-9 FRM/1.1 React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-9 FRM/1.0 Introduction.md",
+                "file": "UFS-9 FRM/1.1 React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-9 FRM/1.0 Introduction.md"
+                "file": "UFS-9 FRM/1.1 React.md"
               }
             }
           },
@@ -181,11 +181,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3167a486af1650eb",
+  "active": "e813ba7cad4329aa",
   "lastOpenFiles": [
+    "UFS-9 FRM/1.0 Introduction.md",
+    "UFS-9 FRM/1.1 React.md",
     "UFS-9 FRM/imgs",
     "CPP TheCherno/3.0 Variables.md",
-    "UFS-9 FRM/1.0 Introduction.md",
     "UFS-9 FRM",
     "CPP TheCherno/2.1 Linkers.md",
     "CPP TheCherno/1.0 Introduction.md",
@@ -227,7 +228,6 @@
     "UFS-5 DBS/imgs/Screenshot 2024-03-22 at 11-17-52 UFS05 - Database e analisi dei dati - Google Drive.png",
     "UFS-5 DBS/imgs/Screenshot 2024-03-22 092251.png",
     "UFS-5 DBS/imgs/Screenshot 2024-03-22 092052.png",
-    "UFT-8.1 DSG/imgs",
     "UFS-2 RET/imgs/Screenshot 2024-02-22 093435.png",
     "Untitled.canvas"
   ]
