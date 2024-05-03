@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP TheCherno/3.0 Variables.md",
+                "file": "UFS-9 FRM/1.0 Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/3.0 Variables.md",
+                "file": "UFS-9 FRM/1.0 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/3.0 Variables.md",
+                "file": "UFS-9 FRM/1.0 Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/3.0 Variables.md"
+                "file": "UFS-9 FRM/1.0 Introduction.md"
               }
             }
           },
@@ -181,10 +181,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e813ba7cad4329aa",
+  "active": "3167a486af1650eb",
   "lastOpenFiles": [
-    "CPP TheCherno/2.1 Linkers.md",
+    "UFS-9 FRM/imgs",
     "CPP TheCherno/3.0 Variables.md",
+    "UFS-9 FRM/1.0 Introduction.md",
+    "UFS-9 FRM",
+    "CPP TheCherno/2.1 Linkers.md",
     "CPP TheCherno/1.0 Introduction.md",
     "CPP TheCherno/2.0 Compilers.md",
     "UFS-8 WEB/6.0 Altri tipi di variabili.md",
@@ -214,10 +217,8 @@
     "UFS-2 RET/99.0 Progetto.md",
     "UFS-7 IUM/imgs",
     "UFS-7 IUM",
-    "UFT-5 SIC/4.0 Green Economy.md",
     "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-24-08 Lumin - Beautiful PDF Editor.png",
     "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-02-01 Lumin - Beautiful PDF Editor.png",
-    "UFT-5 SIC/2.1 Rischi videoterminali.md",
     "UFS-5 DBS/imgs/Screenshot 2024-03-27 104853.png",
     "UFS-5 DBS/imgs/Screenshot 2024-03-27 104816.png",
     "UFS-8 WEB/imgs",
@@ -227,7 +228,6 @@
     "UFS-5 DBS/imgs/Screenshot 2024-03-22 092251.png",
     "UFS-5 DBS/imgs/Screenshot 2024-03-22 092052.png",
     "UFT-8.1 DSG/imgs",
-    "UFT-8.1 DSG",
     "UFS-2 RET/imgs/Screenshot 2024-02-22 093435.png",
     "Untitled.canvas"
   ]
