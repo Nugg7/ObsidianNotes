@@ -1,5 +1,3 @@
-C:\Users\RobStevenGerardGueva\OneDrive - ITS Angelo Rizzoli\Documents\Obsidian Vault
-
 ```mermaid
 
 ```

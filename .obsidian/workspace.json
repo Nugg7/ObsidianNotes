@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f2af901aab85c742",
+        "id": "ff3e8c8e2ba0c532",
         "type": "tabs",
         "children": [
           {
-            "id": "e813ba7cad4329aa",
+            "id": "ab6689a4b5e1f133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-9 FRM/1.1 React.md",
+                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-9 FRM/1.1 React.md",
+                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-9 FRM/1.1 React.md",
+                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-9 FRM/1.1 React.md"
+                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md"
               }
             }
           },
@@ -181,10 +181,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e813ba7cad4329aa",
+  "active": "ab6689a4b5e1f133",
   "lastOpenFiles": [
-    "UFS-9 FRM/1.0 Introduction.md",
+    "UFS-8 WEB/5.0 Funzioni.md",
+    "UFS-8 WEB/2.0 Javascript.md",
+    "UFS-6 JAVz/5.0 Abstract vs Interface.md",
+    "UFS-6 JAVz/4.0 Design patterns.md",
+    "UFT-7 ENG/4.1 Cover letter BMW.md",
+    "UFT-7 ENG/3.1 BMW requirements.md",
+    "UFT-7 ENG/4.0 Cover letters.md",
+    "Path Files - Special characters.md",
+    "Untitled.md",
     "UFS-9 FRM/1.1 React.md",
+    "UFT-7 ENG/3.0 CV.md",
+    "UFS-9 FRM/1.0 Introduction.md",
     "UFS-9 FRM/imgs",
     "CPP TheCherno/3.0 Variables.md",
     "UFS-9 FRM",
@@ -193,15 +203,12 @@
     "CPP TheCherno/2.0 Compilers.md",
     "UFS-8 WEB/6.0 Altri tipi di variabili.md",
     "CPP TheCherno",
-    "UFS-8 WEB/5.0 Funzioni.md",
-    "UFS-6 JAVz/4.0 Design patterns.md",
     "UFS-6 JAVz/imgs/b-tree-visualization.png",
     "UFS-7 IUM/3.0 Visual Design e Accessibilità.md",
     "UFS-7 IUM/2.2 Qualità di un prodotto software.md",
     "UFS-6 JAVz/3.0 Classi IO.md",
     "UFS-8 WEB/4.0 selectors.md",
     "UFS-8 WEB/3.0 Scope.md",
-    "UFS-8 WEB/2.0 Javascript.md",
     "UFS-6 JAVz/2.0 Ripasso.md",
     "Microsoft/Global Azure - Artificial intelligence.md",
     "Microsoft",
@@ -209,13 +216,6 @@
     "UFS-6 JAVz/imgs",
     "UFS-6 JAVz",
     "UFS-8 WEB/1.0 Introduction.md",
-    "UFS-7 IUM/2.1 Strumenti di Progettazione.md",
-    "UFS-7 IUM/1.0 Introduction.md",
-    "UFS-7 IUM/2.0 User Experience.md",
-    "UFS-2 RET/8.0 Java Http.md",
-    "UFS-7 IUM/1.1 Esercitazione 1 Task analysis.md",
-    "UFT-5 SIC/3.0 Qualità e ambiente.md",
-    "UFS-2 RET/99.0 Progetto.md",
     "UFS-7 IUM/imgs",
     "UFS-7 IUM",
     "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-24-08 Lumin - Beautiful PDF Editor.png",
