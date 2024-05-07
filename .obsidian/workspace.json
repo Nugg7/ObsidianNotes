@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
+                "file": "UFS-8 WEB/7.0 Altri elementi.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
+                "file": "UFS-8 WEB/7.0 Altri elementi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md",
+                "file": "UFS-8 WEB/7.0 Altri elementi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-6 JAVz/5.0 Abstract vs Interface.md"
+                "file": "UFS-8 WEB/7.0 Altri elementi.md"
               }
             }
           },
@@ -183,10 +183,16 @@
   },
   "active": "ab6689a4b5e1f133",
   "lastOpenFiles": [
+    "UFS-8 WEB/6.0 Altri tipi di variabili.md",
+    "UFS-8 WEB/7.0 Altri elementi.md",
+    "UFS-6 JAVz/6.0.md",
+    "UFS-6 JAVz/4.0 Design patterns.md",
+    "UFS-6 JAVz/1.0 introduction.md",
+    "UFS-6 JAVz/2.0 Ripasso.md",
+    "UFS-6 JAVz/3.0 Classi IO.md",
+    "UFS-6 JAVz/5.0 Abstract vs Interface.md",
     "UFS-8 WEB/5.0 Funzioni.md",
     "UFS-8 WEB/2.0 Javascript.md",
-    "UFS-6 JAVz/5.0 Abstract vs Interface.md",
-    "UFS-6 JAVz/4.0 Design patterns.md",
     "UFT-7 ENG/4.1 Cover letter BMW.md",
     "UFT-7 ENG/3.1 BMW requirements.md",
     "UFT-7 ENG/4.0 Cover letters.md",
@@ -201,21 +207,15 @@
     "CPP TheCherno/2.1 Linkers.md",
     "CPP TheCherno/1.0 Introduction.md",
     "CPP TheCherno/2.0 Compilers.md",
-    "UFS-8 WEB/6.0 Altri tipi di variabili.md",
     "CPP TheCherno",
     "UFS-6 JAVz/imgs/b-tree-visualization.png",
     "UFS-7 IUM/3.0 Visual Design e Accessibilità.md",
     "UFS-7 IUM/2.2 Qualità di un prodotto software.md",
-    "UFS-6 JAVz/3.0 Classi IO.md",
     "UFS-8 WEB/4.0 selectors.md",
     "UFS-8 WEB/3.0 Scope.md",
-    "UFS-6 JAVz/2.0 Ripasso.md",
-    "Microsoft/Global Azure - Artificial intelligence.md",
     "Microsoft",
-    "UFS-6 JAVz/1.0 introduction.md",
     "UFS-6 JAVz/imgs",
     "UFS-6 JAVz",
-    "UFS-8 WEB/1.0 Introduction.md",
     "UFS-7 IUM/imgs",
     "UFS-7 IUM",
     "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-24-08 Lumin - Beautiful PDF Editor.png",
