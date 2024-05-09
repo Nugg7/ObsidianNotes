@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-8 WEB/7.0 Altri elementi.md",
+                "file": "CPP TheCherno/5.1 Structs.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-8 WEB/7.0 Altri elementi.md",
+                "file": "CPP TheCherno/5.1 Structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-8 WEB/7.0 Altri elementi.md",
+                "file": "CPP TheCherno/5.1 Structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-8 WEB/7.0 Altri elementi.md"
+                "file": "CPP TheCherno/5.1 Structs.md"
               }
             }
           },
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,52 +184,52 @@
   },
   "active": "ab6689a4b5e1f133",
   "lastOpenFiles": [
+    "CPP TheCherno/5.0 Classes.md",
+    "CPP TheCherno/5.1 Structs.md",
+    "UFS-8 WEB/8.1 Sincrono e Asincrono.md",
+    "UFS-8 WEB/8.0 Map, Iframe.md",
+    "UFS-8 WEB/Untitled",
     "UFS-6 JAVz/6.0 Framework e Lambda.md",
+    "CPP TheCherno/4.1 References.md",
     "UFS-8 WEB/7.0 Altri elementi.md",
-    "UFS-8 WEB/6.0 Altri tipi di variabili.md",
-    "UFS-6 JAVz/4.0 Design patterns.md",
-    "UFS-6 JAVz/1.0 introduction.md",
-    "UFS-6 JAVz/2.0 Ripasso.md",
-    "UFS-6 JAVz/3.0 Classi IO.md",
-    "UFS-6 JAVz/5.0 Abstract vs Interface.md",
-    "UFS-8 WEB/5.0 Funzioni.md",
-    "UFS-8 WEB/2.0 Javascript.md",
-    "UFT-7 ENG/4.1 Cover letter BMW.md",
-    "UFT-7 ENG/3.1 BMW requirements.md",
-    "UFT-7 ENG/4.0 Cover letters.md",
-    "Path Files - Special characters.md",
-    "Untitled.md",
-    "UFS-9 FRM/1.1 React.md",
-    "UFT-7 ENG/3.0 CV.md",
-    "UFS-9 FRM/1.0 Introduction.md",
+    "UFT-7 ENG/Untitled.md",
+    "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
+    "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
+    "UFS-1 OSS/Images/Screenshot 2024-01-25 105532.png",
+    "UFS-1 OSS/Images/Screenshot 2024-01-18 123040.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-21 115835.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-21 115618.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-21 113217.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-21 115435.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-21 103037.png",
+    "UFS-1 OSS/Images/Screenshot 2023-12-14 123651.png",
+    "UFS-1 OSS/9.1 Thread.md",
+    "UFS-1 OSS/Images",
+    "UFS-1 OSS/9.0 Fork approfondimento.md",
+    "UFS-1 OSS/8.1 Processi Linux in C.md",
+    "UFS-1 OSS/8.0 Calcolo parallelo.md",
+    "UFS-1 OSS/6.0 esercizio.md",
+    "UFS-1 OSS/7.0 Layout OS.md",
+    "UFS-1 OSS/4.0 C - C++ - Linux.md",
+    "UFS-1 OSS/5.1 Processi.md",
+    "UFS-1 OSS/5.0 Periferiche e CPU.md",
+    "UFS-1 OSS/3.1 Exercise.md",
+    "UFS-1 OSS/3.0 Batch.md",
+    "UFS-1 OSS/2.1 Sistemi operativi.md",
+    "UFS-1 OSS/2.0 Computers.md",
+    "UFS-1 OSS/11.1 Sezione critica - mutex + semafori.md",
+    "UFS-1 OSS/12.0 schemi produttori consumatori.md",
+    "UFS-1 OSS/11.0 Algoritmi di scheduling.md",
+    "UFS-1 OSS/10.0 gestione della concorrenza.md",
+    "UFS-1 OSS/1.0 Introduction.md",
+    "UFS-1 OSS",
     "UFS-9 FRM/imgs",
-    "CPP TheCherno/3.0 Variables.md",
     "UFS-9 FRM",
-    "CPP TheCherno/2.1 Linkers.md",
-    "CPP TheCherno/1.0 Introduction.md",
-    "CPP TheCherno/2.0 Compilers.md",
     "CPP TheCherno",
-    "UFS-6 JAVz/imgs/b-tree-visualization.png",
-    "UFS-7 IUM/3.0 Visual Design e Accessibilità.md",
-    "UFS-7 IUM/2.2 Qualità di un prodotto software.md",
-    "UFS-8 WEB/4.0 selectors.md",
-    "UFS-8 WEB/3.0 Scope.md",
     "Microsoft",
     "UFS-6 JAVz/imgs",
     "UFS-6 JAVz",
     "UFS-7 IUM/imgs",
-    "UFS-7 IUM",
-    "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-24-08 Lumin - Beautiful PDF Editor.png",
-    "UFT-5 SIC/imgs/Screenshot 2024-03-27 at 15-02-01 Lumin - Beautiful PDF Editor.png",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-27 104853.png",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-27 104816.png",
-    "UFS-8 WEB/imgs",
-    "UFS-8 WEB",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-22 at 11-23-34 UFS05 - Database e analisi dei dati - Google Drive.png",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-22 at 11-17-52 UFS05 - Database e analisi dei dati - Google Drive.png",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-22 092251.png",
-    "UFS-5 DBS/imgs/Screenshot 2024-03-22 092052.png",
-    "UFS-2 RET/imgs/Screenshot 2024-02-22 093435.png",
     "Untitled.canvas"
   ]
 }
