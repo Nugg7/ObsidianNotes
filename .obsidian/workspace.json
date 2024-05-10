@@ -11,8 +11,12 @@
             "id": "5ff4307e1c8a2731",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UFT-6 PRM/4.4 Promise.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UFT-6 PRM/4.4 Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UFT-6 PRM/4.4 Promise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UFT-6 PRM/4.4 Promise.md"
+              }
             }
           },
           {
@@ -176,10 +184,12 @@
   },
   "active": "5ff4307e1c8a2731",
   "lastOpenFiles": [
+    "UFT-6 PRM/4.3 Funzioni Asincrone.md",
+    "UFT-6 PRM/4.4 Promise.md",
     "CPP TheCherno/8.0 Constructors and Destructors.md",
-    "UFS-9 FRM/2.1 Functions.md",
-    "UFS-9 FRM/2.0 Funzioni.md",
+    "UFS-9 FRM/2.1 CallBack.md",
     "CPP TheCherno/7.0 ENUMS.md",
+    "UFS-9 FRM/2.0 Funzioni.md",
     "UFS-9 FRM/1.1 React.md",
     "CPP TheCherno/6.0 Static.md",
     "CPP TheCherno/5.2 How to write Classes.md",
@@ -212,8 +222,6 @@
     "UFS-1 OSS/7.0 Layout OS.md",
     "UFS-1 OSS/4.0 C - C++ - Linux.md",
     "UFS-1 OSS/5.1 Processi.md",
-    "UFS-1 OSS/5.0 Periferiche e CPU.md",
-    "UFS-1 OSS/3.1 Exercise.md",
     "UFS-1 OSS",
     "UFS-9 FRM/imgs",
     "UFS-9 FRM",
