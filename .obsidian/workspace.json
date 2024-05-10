@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ff3e8c8e2ba0c532",
+        "id": "6ce61fe53286fd2e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6689a4b5e1f133",
+            "id": "5ff4307e1c8a2731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP TheCherno/5.1 Structs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/5.1 Structs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/5.1 Structs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CPP TheCherno/5.1 Structs.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,8 +174,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ab6689a4b5e1f133",
+  "active": "5ff4307e1c8a2731",
   "lastOpenFiles": [
+    "CPP TheCherno/8.0 Constructors and Destructors.md",
+    "UFS-9 FRM/2.1 Functions.md",
+    "UFS-9 FRM/2.0 Funzioni.md",
+    "CPP TheCherno/7.0 ENUMS.md",
+    "UFS-9 FRM/1.1 React.md",
+    "CPP TheCherno/6.0 Static.md",
+    "CPP TheCherno/5.2 How to write Classes.md",
+    "UFS-9 FRM/1.0 Introduction.md",
     "CPP TheCherno/5.0 Classes.md",
     "CPP TheCherno/5.1 Structs.md",
     "UFS-8 WEB/8.1 Sincrono e Asincrono.md",
@@ -214,14 +214,6 @@
     "UFS-1 OSS/5.1 Processi.md",
     "UFS-1 OSS/5.0 Periferiche e CPU.md",
     "UFS-1 OSS/3.1 Exercise.md",
-    "UFS-1 OSS/3.0 Batch.md",
-    "UFS-1 OSS/2.1 Sistemi operativi.md",
-    "UFS-1 OSS/2.0 Computers.md",
-    "UFS-1 OSS/11.1 Sezione critica - mutex + semafori.md",
-    "UFS-1 OSS/12.0 schemi produttori consumatori.md",
-    "UFS-1 OSS/11.0 Algoritmi di scheduling.md",
-    "UFS-1 OSS/10.0 gestione della concorrenza.md",
-    "UFS-1 OSS/1.0 Introduction.md",
     "UFS-1 OSS",
     "UFS-9 FRM/imgs",
     "UFS-9 FRM",
