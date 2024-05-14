@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectWork/1.0 Introduction.md",
+                "file": "ProjectWork/1.0 Requisiti.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectWork/1.0 Introduction.md",
+                "file": "ProjectWork/1.0 Requisiti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectWork/1.0 Introduction.md",
+                "file": "ProjectWork/1.0 Requisiti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectWork/1.0 Introduction.md"
+                "file": "ProjectWork/1.0 Requisiti.md"
               }
             }
           },
@@ -185,7 +185,7 @@
   "active": "77d2cbdeacf968fc",
   "lastOpenFiles": [
     "ProjectWork/2.0 Soluiton.md",
-    "ProjectWork/1.0 Introduction.md",
+    "ProjectWork/1.0 Requisiti.md",
     "UFS-6 JAVz/7.1 Comunicazione Internet.md",
     "ProjectWork",
     "UFS-6 JAVz/7.0 Stream.md",
