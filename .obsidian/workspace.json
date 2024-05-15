@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/9.0 Inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/9.0 Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/9.0 Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md"
+                "file": "CPP TheCherno/9.0 Inheritance.md"
               }
             }
           },
@@ -184,8 +184,10 @@
   },
   "active": "77d2cbdeacf968fc",
   "lastOpenFiles": [
-    "ProjectWork/2.0 Soluiton.md",
+    "ProjectWork/2.0 Tasks.md",
+    "CPP TheCherno/9.0 Inheritance.md",
     "ProjectWork/1.0 Requisiti.md",
+    "ProjectWork/2.0 Soluiton.md",
     "UFS-6 JAVz/7.1 Comunicazione Internet.md",
     "ProjectWork",
     "UFS-6 JAVz/7.0 Stream.md",
@@ -220,9 +222,7 @@
     "UFS-1 OSS/Images/Screenshot 2023-12-21 115435.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-21 103037.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-14 123651.png",
-    "UFS-1 OSS/9.1 Thread.md",
     "UFS-1 OSS/Images",
-    "UFS-1 OSS/9.0 Fork approfondimento.md",
     "UFS-1 OSS",
     "UFS-9 FRM/imgs",
     "UFS-9 FRM",
