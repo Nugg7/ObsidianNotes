@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP TheCherno/9.0 Inheritance.md",
+                "file": "UFS-6 JAVz/8.0 Javanet.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/9.0 Inheritance.md",
+                "file": "UFS-6 JAVz/8.0 Javanet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/9.0 Inheritance.md",
+                "file": "UFS-6 JAVz/8.0 Javanet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/9.0 Inheritance.md"
+                "file": "UFS-6 JAVz/8.0 Javanet.md"
               }
             }
           },
@@ -184,11 +184,12 @@
   },
   "active": "77d2cbdeacf968fc",
   "lastOpenFiles": [
-    "ProjectWork/2.0 Tasks.md",
     "CPP TheCherno/9.0 Inheritance.md",
+    "UFS-6 JAVz/8.0 Javanet.md",
+    "UFS-6 JAVz/7.1 Comunicazione Internet.md",
+    "ProjectWork/2.0 Tasks.md",
     "ProjectWork/1.0 Requisiti.md",
     "ProjectWork/2.0 Soluiton.md",
-    "UFS-6 JAVz/7.1 Comunicazione Internet.md",
     "ProjectWork",
     "UFS-6 JAVz/7.0 Stream.md",
     "UFS-6 JAVz/6.0 Framework e Lambda.md",
@@ -211,7 +212,6 @@
     "UFS-8 WEB/8.0 Map, Iframe.md",
     "UFS-8 WEB/Untitled",
     "CPP TheCherno/4.1 References.md",
-    "UFS-8 WEB/7.0 Altri elementi.md",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105532.png",
