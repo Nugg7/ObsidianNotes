@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-6 JAVz/8.0 Javanet.md",
+                "file": "CPP TheCherno/10.1 Pure Virtual Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-6 JAVz/8.0 Javanet.md",
+                "file": "CPP TheCherno/10.1 Pure Virtual Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-6 JAVz/8.0 Javanet.md",
+                "file": "CPP TheCherno/10.1 Pure Virtual Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-6 JAVz/8.0 Javanet.md"
+                "file": "CPP TheCherno/10.1 Pure Virtual Functions.md"
               }
             }
           },
@@ -184,6 +184,8 @@
   },
   "active": "77d2cbdeacf968fc",
   "lastOpenFiles": [
+    "CPP TheCherno/10.0 virtual functions.md",
+    "CPP TheCherno/10.1 Pure Virtual Functions.md",
     "CPP TheCherno/9.0 Inheritance.md",
     "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-6 JAVz/7.1 Comunicazione Internet.md",
@@ -209,9 +211,7 @@
     "CPP TheCherno/5.0 Classes.md",
     "CPP TheCherno/5.1 Structs.md",
     "UFS-8 WEB/8.1 Sincrono e Asincrono.md",
-    "UFS-8 WEB/8.0 Map, Iframe.md",
     "UFS-8 WEB/Untitled",
-    "CPP TheCherno/4.1 References.md",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105532.png",
