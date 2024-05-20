@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8609fd6538ebd9f9",
+        "id": "dcd536a52c2c6d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "77d2cbdeacf968fc",
+            "id": "04049dce39c84d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/14.0 Const.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/14.0 Const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md",
+                "file": "CPP TheCherno/14.0 Const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectWork/1.0 Requisiti.md"
+                "file": "CPP TheCherno/14.0 Const.md"
               }
             }
           },
@@ -182,26 +182,28 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77d2cbdeacf968fc",
+  "active": "04049dce39c84d16",
   "lastOpenFiles": [
+    "UFS-6 JAVz/8.0 Javanet.md",
+    "CPP TheCherno/14.0 Const.md",
+    "UFT-7 ENG/5.0 Job Offer E-mail.md",
+    "UFT-7 ENG/6.0 Questions for the interview.md",
+    "UFT-7 ENG/4.1 Cover letter BMW.md",
+    "ProjectWork/1.0 Requisiti.md",
     "CPP TheCherno/13.1 String literals.md",
     "CPP TheCherno/13.0 Strings.md",
     "CPP TheCherno/12.0 Arrays.md",
     "CPP TheCherno/11.0 Visibility.md",
     "CPP TheCherno/0.0 GDB and CMake.md",
     "ProjectWork/2.0 Tasks.md",
-    "ProjectWork/1.0 Requisiti.md",
     "CPP TheCherno/10.1 Pure Virtual Functions.md",
     "CPP TheCherno/10.0 virtual functions.md",
     "CPP TheCherno/9.0 Inheritance.md",
-    "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-6 JAVz/7.1 Comunicazione Internet.md",
     "ProjectWork/2.0 Soluiton.md",
     "ProjectWork",
     "UFS-6 JAVz/7.0 Stream.md",
     "UFS-6 JAVz/6.0 Framework e Lambda.md",
-    "UFT-7 ENG/4.1 Cover letter BMW.md",
-    "UFT-7 ENG/5.0 Job Offer E-mail.md",
     "UFT-6 PRM/4.4 Promise.md",
     "UFT-7 ENG/Untitled 1.md",
     "UFT-6 PRM/4.3 Funzioni Asincrone.md",
@@ -209,8 +211,6 @@
     "UFS-9 FRM/2.1 CallBack.md",
     "CPP TheCherno/7.0 ENUMS.md",
     "UFS-9 FRM/2.0 Funzioni.md",
-    "UFS-9 FRM/1.1 React.md",
-    "CPP TheCherno/6.0 Static.md",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
