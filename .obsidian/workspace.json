@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP TheCherno/14.0 Const.md",
+                "file": "CPP TheCherno/14.1 Mutable.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/14.0 Const.md",
+                "file": "CPP TheCherno/14.1 Mutable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/14.0 Const.md",
+                "file": "CPP TheCherno/14.1 Mutable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/14.0 Const.md"
+                "file": "CPP TheCherno/14.1 Mutable.md"
               }
             }
           },
@@ -184,13 +184,16 @@
   },
   "active": "04049dce39c84d16",
   "lastOpenFiles": [
+    "CPP TheCherno/13.1 String literals.md",
+    "CPP TheCherno/14.1 Mutable.md",
+    "UFS-6 JAVz/9.0 DataBase Query.md",
     "UFS-6 JAVz/8.0 Javanet.md",
+    "UFS-5 DBS/6.1 noSQL.md",
     "CPP TheCherno/14.0 Const.md",
     "UFT-7 ENG/5.0 Job Offer E-mail.md",
     "UFT-7 ENG/6.0 Questions for the interview.md",
     "UFT-7 ENG/4.1 Cover letter BMW.md",
     "ProjectWork/1.0 Requisiti.md",
-    "CPP TheCherno/13.1 String literals.md",
     "CPP TheCherno/13.0 Strings.md",
     "CPP TheCherno/12.0 Arrays.md",
     "CPP TheCherno/11.0 Visibility.md",
@@ -208,9 +211,6 @@
     "UFT-7 ENG/Untitled 1.md",
     "UFT-6 PRM/4.3 Funzioni Asincrone.md",
     "CPP TheCherno/8.0 Constructors and Destructors.md",
-    "UFS-9 FRM/2.1 CallBack.md",
-    "CPP TheCherno/7.0 ENUMS.md",
-    "UFS-9 FRM/2.0 Funzioni.md",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
