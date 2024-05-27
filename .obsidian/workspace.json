@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-9 FRM/2.1 CallBack.md",
+                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-9 FRM/2.1 CallBack.md",
+                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-9 FRM/2.1 CallBack.md",
+                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-9 FRM/2.1 CallBack.md"
+                "file": "UFT-7 ENG/6.0 Questions for the interview.md"
               }
             }
           },
@@ -184,6 +184,9 @@
   },
   "active": "04049dce39c84d16",
   "lastOpenFiles": [
+    "UFT-7 ENG/5.0 Job Offer E-mail.md",
+    "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
+    "UFS-9 FRM/2.1 CallBack.md",
     "UFS-9 FRM/1.0 Introduction.md",
     "UFS-9 FRM/1.1 React.md",
     "UFS-9 FRM/3.0 Angular React Vue.md",
@@ -194,7 +197,6 @@
     "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-5 DBS/6.1 noSQL.md",
     "CPP TheCherno/14.0 Const.md",
-    "UFT-7 ENG/5.0 Job Offer E-mail.md",
     "UFT-7 ENG/6.0 Questions for the interview.md",
     "UFT-7 ENG/4.1 Cover letter BMW.md",
     "ProjectWork/1.0 Requisiti.md",
@@ -209,8 +211,6 @@
     "ProjectWork/2.0 Soluiton.md",
     "ProjectWork",
     "UFS-6 JAVz/7.0 Stream.md",
-    "UFS-6 JAVz/6.0 Framework e Lambda.md",
-    "UFT-6 PRM/4.4 Promise.md",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
