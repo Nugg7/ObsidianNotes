@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP TheCherno/16.0 Ternary operation.md",
+                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPP TheCherno/16.0 Ternary operation.md",
+                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPP TheCherno/16.0 Ternary operation.md",
+                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/16.0 Ternary operation.md"
+                "file": "UFS-9 FRM/5.0 Async await with fetch.md"
               }
             }
           },
@@ -168,14 +168,17 @@
   },
   "active": "04049dce39c84d16",
   "lastOpenFiles": [
-    "CPP TheCherno/15.0 Member initializers.md",
+    "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
+    "UFS-9 FRM/5.0 Async await with fetch.md",
+    "CPP TheCherno/7.0 ENUMS.md",
+    "CPP TheCherno/5.0 Classes.md",
     "CPP TheCherno/16.0 Ternary operation.md",
+    "CPP TheCherno/15.0 Member initializers.md",
     "UFS-6 JAVz/7.0 Stream.md",
     "UFS-6 JAVz/7.1 Comunicazione Internet.md",
     "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-6 JAVz/6.0 Framework e Lambda.md",
     "CPP TheCherno/14.1 Mutable.md",
-    "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
     "UFS-9 FRM/1.1 React.md",
     "UFS-6 JAVz/10.0 GUI.md",
     "UFT-7 ENG/6.0 Questions for the interview.md",
@@ -191,9 +194,6 @@
     "CPP TheCherno/14.0 Const.md",
     "UFT-7 ENG/4.1 Cover letter BMW.md",
     "ProjectWork/1.0 Requisiti.md",
-    "CPP TheCherno/13.0 Strings.md",
-    "CPP TheCherno/12.0 Arrays.md",
-    "CPP TheCherno/11.0 Visibility.md",
     "ProjectWork",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
