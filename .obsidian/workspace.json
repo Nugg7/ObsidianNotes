@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
+                "file": "CPP TheCherno/16.0 Ternary operation.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "282a978d2aefb3e8",
         "type": "tabs",
-        "dimension": 74.4186046511628,
         "children": [
           {
             "id": "a2ebf7dd97cbd0a8",
@@ -76,21 +75,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "0beee7477f6c3eac",
-        "type": "tabs",
-        "dimension": 25.581395348837212,
-        "children": [
-          {
-            "id": "2bf178dc221a452b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
+                "file": "CPP TheCherno/16.0 Ternary operation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFT-7 ENG/6.0 Questions for the interview.md",
+                "file": "CPP TheCherno/16.0 Ternary operation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFT-7 ENG/6.0 Questions for the interview.md"
+                "file": "CPP TheCherno/16.0 Ternary operation.md"
               }
             }
           },
@@ -184,33 +168,33 @@
   },
   "active": "04049dce39c84d16",
   "lastOpenFiles": [
-    "UFT-7 ENG/5.0 Job Offer E-mail.md",
+    "CPP TheCherno/15.0 Member initializers.md",
+    "CPP TheCherno/16.0 Ternary operation.md",
+    "UFS-6 JAVz/7.0 Stream.md",
+    "UFS-6 JAVz/7.1 Comunicazione Internet.md",
+    "UFS-6 JAVz/8.0 Javanet.md",
+    "UFS-6 JAVz/6.0 Framework e Lambda.md",
+    "CPP TheCherno/14.1 Mutable.md",
     "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
+    "UFS-9 FRM/1.1 React.md",
+    "UFS-6 JAVz/10.0 GUI.md",
+    "UFT-7 ENG/6.0 Questions for the interview.md",
+    "UFT-6 PRM/2.1 Kanban vs Scrum.md",
+    "UFT-7 ENG/5.0 Job Offer E-mail.md",
     "UFS-9 FRM/2.1 CallBack.md",
     "UFS-9 FRM/1.0 Introduction.md",
-    "UFS-9 FRM/1.1 React.md",
     "UFS-9 FRM/3.0 Angular React Vue.md",
     "CPP TheCherno/0.0 GDB and CMake.md",
-    "CPP TheCherno/14.1 Mutable.md",
     "CPP TheCherno/13.1 String literals.md",
     "UFS-6 JAVz/9.0 DataBase Query.md",
-    "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-5 DBS/6.1 noSQL.md",
     "CPP TheCherno/14.0 Const.md",
-    "UFT-7 ENG/6.0 Questions for the interview.md",
     "UFT-7 ENG/4.1 Cover letter BMW.md",
     "ProjectWork/1.0 Requisiti.md",
     "CPP TheCherno/13.0 Strings.md",
     "CPP TheCherno/12.0 Arrays.md",
     "CPP TheCherno/11.0 Visibility.md",
-    "ProjectWork/2.0 Tasks.md",
-    "CPP TheCherno/10.1 Pure Virtual Functions.md",
-    "CPP TheCherno/10.0 virtual functions.md",
-    "CPP TheCherno/9.0 Inheritance.md",
-    "UFS-6 JAVz/7.1 Comunicazione Internet.md",
-    "ProjectWork/2.0 Soluiton.md",
     "ProjectWork",
-    "UFS-6 JAVz/7.0 Stream.md",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123147.png",
