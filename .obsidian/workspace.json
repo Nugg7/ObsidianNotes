@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
+                "file": "CPP TheCherno/17.0 Create - Instantiate objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
+                "file": "CPP TheCherno/17.0 Create - Instantiate objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UFS-9 FRM/5.0 Async await with fetch.md",
+                "file": "CPP TheCherno/17.0 Create - Instantiate objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UFS-9 FRM/5.0 Async await with fetch.md"
+                "file": "CPP TheCherno/17.0 Create - Instantiate objects.md"
               }
             }
           },
@@ -168,8 +168,13 @@
   },
   "active": "04049dce39c84d16",
   "lastOpenFiles": [
-    "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
+    "UFS-9 FRM/6.0 React router.md",
+    "UFS-9 FRM/1.1 React.md",
+    "CPP TheCherno/17.0 Create - Instantiate objects.md",
+    "CPP TheCherno/14.0 Const.md",
+    "CPP TheCherno/13.1 String literals.md",
     "UFS-9 FRM/5.0 Async await with fetch.md",
+    "UFS-9 FRM/4.0 cambiare elementi nel dom.md",
     "CPP TheCherno/7.0 ENUMS.md",
     "CPP TheCherno/5.0 Classes.md",
     "CPP TheCherno/16.0 Ternary operation.md",
@@ -179,7 +184,6 @@
     "UFS-6 JAVz/8.0 Javanet.md",
     "UFS-6 JAVz/6.0 Framework e Lambda.md",
     "CPP TheCherno/14.1 Mutable.md",
-    "UFS-9 FRM/1.1 React.md",
     "UFS-6 JAVz/10.0 GUI.md",
     "UFT-7 ENG/6.0 Questions for the interview.md",
     "UFT-6 PRM/2.1 Kanban vs Scrum.md",
@@ -188,12 +192,8 @@
     "UFS-9 FRM/1.0 Introduction.md",
     "UFS-9 FRM/3.0 Angular React Vue.md",
     "CPP TheCherno/0.0 GDB and CMake.md",
-    "CPP TheCherno/13.1 String literals.md",
     "UFS-6 JAVz/9.0 DataBase Query.md",
     "UFS-5 DBS/6.1 noSQL.md",
-    "CPP TheCherno/14.0 Const.md",
-    "UFT-7 ENG/4.1 Cover letter BMW.md",
-    "ProjectWork/1.0 Requisiti.md",
     "ProjectWork",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
