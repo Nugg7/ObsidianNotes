@@ -1,0 +1,1 @@
+Vue e' un concorrente di React
