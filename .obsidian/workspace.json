@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/4.0 VB dotNet.md",
+                "file": "Sigemi/6.0 Avvento 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 VB dotNet"
+              "title": "6.0 Avvento 3"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigemi/4.0 VB dotNet.md"
+                "file": "Sigemi/6.0 Avvento 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4.0 VB dotNet"
+              "title": "Outline of 6.0 Avvento 3"
             }
           },
           {
@@ -187,9 +187,11 @@
   },
   "active": "aa2adcd36749a500",
   "lastOpenFiles": [
-    "Sigemi/3.0 Avvento 2.md",
-    "Sigemi/5.0 Logs.md",
     "Sigemi/4.0 VB dotNet.md",
+    "Sigemi/6.0 Avvento 3.md",
+    "Sigemi/3.0 Avvento 2.md",
+    "Sigemi/2.0 Avvento 1.md",
+    "Sigemi/5.0 Logs.md",
     "Sigemi/1.0 ETL.md",
     "CPP TheCherno/18.0 New keyword.md",
     "UFS-13 AND/2.0 Componenti.md",
@@ -199,7 +201,6 @@
     "UFS-13 AND/8.1 Pubblicazione.md",
     "UFS-13 AND/6.0 Dati persistenti.md",
     "UFS-13 AND/8.0 Web & Maps.md",
-    "Sigemi/2.0 Avvento 1.md",
     "UFS-13 AND/1.0 Introduzione.md",
     "UFS-13 AND/4.0 Layout.md",
     "CPP TheCherno/17.0 Create - Instantiate objects.md",
@@ -213,7 +214,6 @@
     "CPP TheCherno/7.0 ENUMS.md",
     "CPP TheCherno/5.0 Classes.md",
     "CPP TheCherno/16.0 Ternary operation.md",
-    "CPP TheCherno/15.0 Member initializers.md",
     "ProjectWork",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
