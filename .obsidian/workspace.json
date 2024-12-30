@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/3.0 Avvento 2.md",
+                "file": "Sigemi/4.0 VB dotNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.0 Avvento 2"
+              "title": "4.0 VB dotNet"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigemi/3.0 Avvento 2.md"
+                "file": "Sigemi/4.0 VB dotNet.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.0 Avvento 2"
+              "title": "Outline of 4.0 VB dotNet"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "aa2adcd36749a500",
   "lastOpenFiles": [
-    "Sigemi/5.0 Logs.md",
     "Sigemi/3.0 Avvento 2.md",
+    "Sigemi/5.0 Logs.md",
     "Sigemi/4.0 VB dotNet.md",
     "Sigemi/1.0 ETL.md",
     "CPP TheCherno/18.0 New keyword.md",
