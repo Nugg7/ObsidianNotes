@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/8.0 BQ.md",
+                "file": "Sigemi/11.0 ETL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.0 BQ"
+              "title": "11.0 ETL"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "ff84adc8d4849557",
+            "id": "9ff168b87c0a2d7f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -188,6 +188,19 @@
   },
   "active": "8def256101b6547e",
   "lastOpenFiles": [
+    "Sigemi/10.0 Avvento 6.md",
+    "Sigemi/11.0 ETL.md",
+    "Sigemi/9.0 Query e DB.md",
+    "Sigemi/8.0 BQ.md",
+    "Sigemi/8.0 Avvento 5.md",
+    "Sigemi/7.0 Avvento 4.md",
+    "Sigemi/2.0 Avvento 1.md",
+    "UFS-5 DBS/6.0 Covarianza, Correlazione e Causazione.md",
+    "UFS-5 DBS/3.0 Progettazione DB.md",
+    "UFS-5 DBS/4.0 Dati.md",
+    "UFS-5 DBS/2.0 Oggetti.md",
+    "UFS-5 DBS/1.1 MySQL.md",
+    "UFS-5 DBS/5.0 Indici.md",
     "UFS-13 AND/2.0 Componenti.md",
     "conflict-files-obsidian-git.md",
     "UFS-14 IOS/9.0 Web.md",
@@ -203,20 +216,7 @@
     "UFS-13 AND/8.0 Web & Maps.md",
     "UFS-13 AND/7.0 Adapter e Fragment.md",
     "UFS-13 AND/6.0 Dati persistenti.md",
-    "UFS-13 AND/5.0 Layout 2.md",
-    "UFS-13 AND/4.0 Layout.md",
-    "UFS-13 AND/3.0 Programmazione Visuale.md",
-    "Sigemi/8.0 BQ.md",
-    "Sigemi/8.0 Avvento 5.md",
-    "Sigemi/7.0 Avvento 4.md",
-    "Sigemi/6.0 Avvento 3.md",
-    "Sigemi/5.0 Logs.md",
-    "Sigemi/4.0 VB dotNet.md",
-    "Sigemi/3.0 Avvento 2.md",
-    "Sigemi/2.0 Avvento 1.md",
-    "Sigemi/1.0 ETL.md",
     "Sigemi",
-    "ProjectWork/ESAME SIMULAZIONE.md",
     "ProjectWork",
     "UFS-8 WEB/Untitled",
     "UFS-1 OSS/Images/Screenshot 2024-01-25 105615.png",
