@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/11.0 ETL.md",
+                "file": "Sigemi/12.0 Big Query Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.0 ETL"
+              "title": "12.0 Big Query Documentation"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP TheCherno/17.0 Create - Instantiate objects.md"
+                "file": "Sigemi/12.0 Big Query Documentation.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 17.0 Create - Instantiate objects"
+              "title": "Outline of 12.0 Big Query Documentation"
             }
           },
           {
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +187,14 @@
   },
   "active": "8def256101b6547e",
   "lastOpenFiles": [
-    "Sigemi/10.0 Avvento 6.md",
-    "Sigemi/11.0 ETL.md",
-    "Sigemi/9.0 Query e DB.md",
     "Sigemi/8.0 BQ.md",
+    "Sigemi/12.0 Big Query Documentation.md",
+    "Sigemi/11.0 ETL.md",
+    "Sigemi/12.0.md",
+    "Sigemi/4.0 VB dotNet.md",
+    "Sigemi/5.0 Logs.md",
+    "Sigemi/10.0 Avvento 6.md",
+    "Sigemi/9.0 Query e DB.md",
     "Sigemi/8.0 Avvento 5.md",
     "Sigemi/7.0 Avvento 4.md",
     "Sigemi/2.0 Avvento 1.md",
@@ -212,10 +215,6 @@
     "UFS-14 IOS/4.0 Contenitori.md",
     "UFS-13 AND/imgs/android_view_class.png",
     "UFS-13 AND/imgs",
-    "UFS-13 AND/8.1 Pubblicazione.md",
-    "UFS-13 AND/8.0 Web & Maps.md",
-    "UFS-13 AND/7.0 Adapter e Fragment.md",
-    "UFS-13 AND/6.0 Dati persistenti.md",
     "Sigemi",
     "ProjectWork",
     "UFS-8 WEB/Untitled",
