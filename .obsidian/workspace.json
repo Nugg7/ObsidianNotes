@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/12.0 Big Query Documentation.md",
+                "file": "Sigemi/14.0 Logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.0 Big Query Documentation"
+              "title": "14.0 Logging"
             }
           }
         ]
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigemi/12.0 Big Query Documentation.md"
+                "file": "Sigemi/14.0 Logging.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 12.0 Big Query Documentation"
+              "title": "Outline of 14.0 Logging"
             }
           },
           {
@@ -187,8 +187,13 @@
   },
   "active": "8def256101b6547e",
   "lastOpenFiles": [
-    "Sigemi/8.0 BQ.md",
+    "Untitled.md",
+    "Sigemi/14.0 Logging.md",
     "Sigemi/12.0 Big Query Documentation.md",
+    "Sigemi/8.0 BQ.md",
+    "Sigemi/imgs/Screenshot 2025-01-14 091610.png",
+    "Sigemi/imgs",
+    "Sigemi/13.0 Riunione.md",
     "Sigemi/11.0 ETL.md",
     "Sigemi/12.0.md",
     "Sigemi/4.0 VB dotNet.md",
@@ -210,9 +215,6 @@
     "UFS-14 IOS/8.0 Ciclo di vita.md",
     "UFS-14 IOS/7.0 Layout.md",
     "UFS-14 IOS/6.0 Componenti 2.md",
-    "UFS-14 IOS/5.0 Componenti.md",
-    "UFS-14 IOS/4.1 Pulsanti.md",
-    "UFS-14 IOS/4.0 Contenitori.md",
     "UFS-13 AND/imgs/android_view_class.png",
     "UFS-13 AND/imgs",
     "Sigemi",
@@ -226,13 +228,11 @@
     "UFS-1 OSS/Images/Screenshot 2023-12-21 115618.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-21 113217.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-21 115435.png",
-    "UFS-1 OSS/Images/Screenshot 2023-12-21 103037.png",
     "UFS-1 OSS/Images",
     "UFS-1 OSS",
     "UFS-9 FRM/imgs",
     "UFS-9 FRM",
     "CPP TheCherno",
-    "Microsoft",
     "Untitled.canvas"
   ]
 }
