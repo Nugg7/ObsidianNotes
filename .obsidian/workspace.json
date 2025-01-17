@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "9ff168b87c0a2d7f",
+            "id": "8223b611d2ffa1dd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 285.5
   },
   "right": {
     "id": "c2f3b41f989fe9d3",
@@ -187,9 +187,16 @@
   },
   "active": "8def256101b6547e",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Sigemi/6.0 Avvento 3.md",
+    "Sigemi/3.0 Avvento 2.md",
+    "Sigemi/2.0 Avvento 1.md",
+    "Sigemi/7.0 Avvento 4.md",
+    "Sigemi/8.0 Avvento 5.md",
     "Sigemi/14.0 Logging.md",
     "Sigemi/12.0 Big Query Documentation.md",
+    "ProjectWork/ESAME SIMULAZIONE.md",
+    "ProjectWork/1.0 Requisiti.md",
+    "Untitled.md",
     "Sigemi/8.0 BQ.md",
     "Sigemi/imgs/Screenshot 2025-01-14 091610.png",
     "Sigemi/imgs",
@@ -200,9 +207,6 @@
     "Sigemi/5.0 Logs.md",
     "Sigemi/10.0 Avvento 6.md",
     "Sigemi/9.0 Query e DB.md",
-    "Sigemi/8.0 Avvento 5.md",
-    "Sigemi/7.0 Avvento 4.md",
-    "Sigemi/2.0 Avvento 1.md",
     "UFS-5 DBS/6.0 Covarianza, Correlazione e Causazione.md",
     "UFS-5 DBS/3.0 Progettazione DB.md",
     "UFS-5 DBS/4.0 Dati.md",
@@ -211,10 +215,6 @@
     "UFS-5 DBS/5.0 Indici.md",
     "UFS-13 AND/2.0 Componenti.md",
     "conflict-files-obsidian-git.md",
-    "UFS-14 IOS/9.0 Web.md",
-    "UFS-14 IOS/8.0 Ciclo di vita.md",
-    "UFS-14 IOS/7.0 Layout.md",
-    "UFS-14 IOS/6.0 Componenti 2.md",
     "UFS-13 AND/imgs/android_view_class.png",
     "UFS-13 AND/imgs",
     "Sigemi",
