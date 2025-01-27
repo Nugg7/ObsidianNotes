@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigemi/13.0 Riunione.md",
+                "file": "Sigemi/15.0 Note intervento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13.0 Riunione"
+              "title": "15.0 Note intervento"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "8223b611d2ffa1dd",
+            "id": "0ffbd6a3f903c0ba",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigemi/13.0 Riunione.md"
+                "file": "Sigemi/15.0 Note intervento.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 13.0 Riunione"
+              "title": "Outline of 15.0 Note intervento"
             }
           },
           {
@@ -188,33 +188,35 @@
   "active": "8def256101b6547e",
   "lastOpenFiles": [
     "Sigemi/14.0 Logging.md",
+    "Sigemi/16.0 OweB.md",
+    "Sigemi/17.0.md",
     "Sigemi/15.0 Note intervento.md",
-    "Sigemi/11.0 ETL.md",
-    "Sigemi/10.0 Avvento 6.md",
-    "Sigemi/9.0 Query e DB.md",
-    "Sigemi/6.0 Avvento 3.md",
-    "Sigemi/3.0 Avvento 2.md",
+    "Sigemi/imgs/Screenshot 2025-01-23 123730.png",
+    "Sigemi/imgs/Screenshot 2025-01-23 102335.png",
+    "Sigemi/12.0 Big Query Documentation.md",
+    "Sigemi/1.0 ETL.md",
+    "Sigemi/8.0 BQ.md",
     "Sigemi/2.0 Avvento 1.md",
+    "Sigemi/3.0 Avvento 2.md",
+    "Sigemi/5.0 Logs.md",
     "Sigemi/7.0 Avvento 4.md",
     "Sigemi/8.0 Avvento 5.md",
-    "Sigemi/12.0 Big Query Documentation.md",
+    "Sigemi/9.0 Query e DB.md",
+    "Sigemi/11.0 ETL.md",
+    "Sigemi/13.0 Riunione.md",
+    "UFS-7 IUM/3.0 Visual Design e Accessibilità.md",
+    "Sigemi/10.0 Avvento 6.md",
+    "Sigemi/6.0 Avvento 3.md",
     "ProjectWork/ESAME SIMULAZIONE.md",
     "ProjectWork/1.0 Requisiti.md",
     "Untitled.md",
-    "Sigemi/8.0 BQ.md",
     "Sigemi/imgs/Screenshot 2025-01-14 091610.png",
     "Sigemi/imgs",
-    "Sigemi/13.0 Riunione.md",
     "Sigemi/12.0.md",
     "Sigemi/4.0 VB dotNet.md",
-    "Sigemi/5.0 Logs.md",
     "UFS-5 DBS/6.0 Covarianza, Correlazione e Causazione.md",
     "UFS-5 DBS/3.0 Progettazione DB.md",
     "UFS-5 DBS/4.0 Dati.md",
-    "UFS-5 DBS/2.0 Oggetti.md",
-    "UFS-5 DBS/1.1 MySQL.md",
-    "UFS-5 DBS/5.0 Indici.md",
-    "UFS-13 AND/2.0 Componenti.md",
     "UFS-13 AND/imgs/android_view_class.png",
     "UFS-13 AND/imgs",
     "Sigemi",
@@ -226,8 +228,6 @@
     "UFS-1 OSS/Images/Screenshot 2024-01-18 123040.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-21 115835.png",
     "UFS-1 OSS/Images/Screenshot 2023-12-21 115618.png",
-    "UFS-1 OSS/Images/Screenshot 2023-12-21 113217.png",
-    "UFS-1 OSS/Images/Screenshot 2023-12-21 115435.png",
     "UFS-1 OSS/Images",
     "UFS-1 OSS",
     "UFS-9 FRM/imgs",
